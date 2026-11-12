@@ -4,8 +4,8 @@
 
 ## Work Load
 
-- AI notification model ()
-- User Permissions ()
-- Date detection system ()
+- AI notification model (Kade Burback)
+- User Permissions & Database (Kody Barlow)
+- Detection system (Matthew Stollfus)
 
 ## How it works
